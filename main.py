@@ -3,7 +3,7 @@ def my_name():
 my_name()
 
 def my_meal(food, drink):
-    print('I like to eat {food} while drinking {drink}')
+    print(f'I like to eat {food} while drinking {drink}')
 my_meal('sandwich', 'water')
 
 def cube(number):
